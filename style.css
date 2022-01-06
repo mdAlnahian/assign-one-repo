@@ -82,9 +82,10 @@ p{
 
 .third-section{
     width: 80%;
+    display: flex;
     margin: 0 auto;
     padding-top: 100px;
-    display: flex;
+    
 }
 .pic{
     height: 480px;
@@ -95,6 +96,7 @@ p{
 .third-sec-two{
     width: 60%;
     padding-top: 70px;
+    margin-left: 100px;
 }
 .third-sec-two h3{
     font-size: 50px;
