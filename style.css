@@ -118,6 +118,32 @@ p{
     padding-left: 150px;
     
 }
+.form-section{
+    width: 80%;
+    margin: 0 auto;
+    padding-top: 70px;
+}
+.form-head{
+    text-align: center;
+    font-size: 40px;
+}
+.form-data{
+    margin: 0 30%;
+}
+.form2{
+    width: 600px;
+    height: 50px;
+    font-size: 22px;
+    padding: 7px 25px;
+    border: 2px solid ;
+    border-image: linear-gradient(purple,pink);
+    border-image-slice: 1;
+    border-radius: 10px;
+    outline: none;
+}
+.new-button{
+   margin: 0 47%;
+}
 
 .footer-section{
     width: 100%;
