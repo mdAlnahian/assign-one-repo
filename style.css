@@ -1,0 +1,38 @@
+body{
+    font-family: 'Roboto Condensed', sans-serif;
+}
+.first-section{
+    display: flex;
+    width: 80%;
+    margin: 0 auto;
+}
+.first-div{
+    width: 50%;
+    padding-top: 50px;
+}
+.second-div{
+    width: 50%;
+    margin-left: 10%;
+}
+.second-div img{
+    height: 550px;
+    padding-left: 200px;
+}
+
+.head{
+    font-size: 40px;
+    border-left: 8px solid purple;
+    padding-left: 25px;
+  
+}
+.color-head{
+    color: blueviolet;
+}
+.button{
+    padding: 12px 20px;
+    color: rgb(245, 208, 208);
+    background-color: purple;
+    border: none;
+    border-radius: 6px;
+    font-size: 18px;
+}
